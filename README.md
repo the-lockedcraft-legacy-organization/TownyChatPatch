@@ -21,6 +21,7 @@ A quick MethodScript to selectively send TownyChat across bungee.
 # Depends on
 __All Instances__
 - [Methodscript](https://builds.enginehub.org/job/commandhelper)
+
 __Towny Instance__
 - [Methodscript](https://builds.enginehub.org/job/commandhelper)
   - [The Vault Extension](https://letsbuild.net/jenkins/job/CHVault/)
